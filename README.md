@@ -1,4 +1,4 @@
-# Active Records Model-Micro-Reddit
+# Authentication
 
 This project was used to get our feets wet working on authorization and authentication using Rails powerful DEVISEs. In this project, a user can create a post, only a logged in user can see the author of a post
 
@@ -14,7 +14,7 @@ To get a local copy of the repository please run the following commands on your 
 $ cd  folder-name
 
 ~~~bash
-git clone https://github.com/elisha2kyakpo1/micro-reddit
+git clone git@github.com:uchennaanya/members_only.git
 $ cd members_only
 $ bundle install 
 $ rails db:migrate
